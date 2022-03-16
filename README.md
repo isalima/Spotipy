@@ -1,0 +1,1 @@
+Busca na API do Spotify um artista e retorna sua popularidade, numero de seguidores e gênero musical e exibe no console.
